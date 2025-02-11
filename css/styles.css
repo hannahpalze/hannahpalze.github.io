@@ -44,6 +44,11 @@ img.dibley {
     max-width: 100%
 }
 
+.carousel-caption{
+    color: black;
+    font-weight: bold;
+}
+
 #grid {
     display: grid;
     grid-template-columns: repeat(6, 1fr);
