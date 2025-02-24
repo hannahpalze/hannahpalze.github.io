@@ -56,6 +56,17 @@ img.dibley {
     
 }
 
+.mb-0{
+    font-size: medium;
+}
+
+footer {
+    background: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;  
+}
+
 #box{
     margin: 5px;
     padding: 5px;
