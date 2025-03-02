@@ -7,6 +7,10 @@ body {
 
 }
 
+img{
+    aspect-ratio: auto;
+}
+
 h1,h2,h3,h4,h5,h6 {
     font-family: 'Playfair Display', serif;
 }
@@ -54,6 +58,17 @@ img.dibley {
     grid-template-columns: repeat(6, 1fr);
     grid-template-rows: 5fr 2fr 2fr 2fr 2fr 2fr;
     
+}
+
+.mb-0{
+    font-size: medium;
+}
+
+footer {
+    background: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;  
 }
 
 #box{
